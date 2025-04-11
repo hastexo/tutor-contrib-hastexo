@@ -18,6 +18,7 @@ config = {
         "GUACD_VERSION": "1.5.5",
         "GUACD_BASE_IMAGE": "guacamole/guacd:{{ HASTEXO_GUACD_VERSION }}",
         "GUACD_DOCKER_IMAGE": "{{ HASTEXO_GUACD_BASE_IMAGE }}",
+        "BASE_IMAGE": "docker.io/python:3.11",
         "DOCKER_IMAGE": "{{ DOCKER_REGISTRY }}hastexo:{{ HASTEXO_VERSION }}",
         "XBLOCK_VERSION": "stable",
         "DEBUG": False,

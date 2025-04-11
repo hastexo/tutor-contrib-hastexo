@@ -1,3 +1,7 @@
+Unreleased
+----------------------------
+* [Enhancement] Allow to override the Dockerfile base image.
+
 Version 2.1.0 (2025-01-03)
 ----------------------------
 * Bump the default `guacd` version.
