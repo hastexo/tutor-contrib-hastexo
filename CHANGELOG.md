@@ -1,4 +1,4 @@
-Unreleased
+Version 2.2.0 (2025-04-15)
 ----------------------------
 * [Enhancement] Allow to override the Dockerfile base image.
 
